@@ -321,6 +321,16 @@ github:https://github.com/soumodip615c
 ---
 # images 
 <img width="896" height="896" alt="train_batch2 - Copy" src="https://github.com/user-attachments/assets/06656892-f150-4eaa-b065-2c4b9394bbec" />
+<img width="896" height="896" alt="val_batch1_pred" src="https://github.com/user-attachments/assets/eb4f9130-1860-4634-a4e1-00d9e7754d01" />
+<img width="896" height="896" alt="train_batch5162" src="https://github.com/user-attachments/assets/84a42a15-475a-48ff-a1bf-b4f850cd04c8" />
+<img width="896" height="896" alt="train_batch5160" src="https://github.com/user-attachments/assets/5b201d21-9d57-4bb5-b942-1fe1b4039878" />
+<img width="1200" height="1200" alt="results" src="https://github.com/user-attachments/assets/5ea173d6-ebf3-4926-a011-0df79b9da340" />
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/9d4f9598-877f-4ab8-8163-d57083583cf0" />
+
+
+
+
+
 
 # License
 
