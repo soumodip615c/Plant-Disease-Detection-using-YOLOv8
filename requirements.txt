@@ -1,0 +1,8 @@
+ultralytics
+torch
+torchvision
+opencv-python
+Pillow
+PyYAML
+numpy
+matplotlib
